@@ -1,0 +1,44 @@
+# 🦊 Fox vs Bears: Cabin Protector  
+
+A **2D Unity game** where a brave fox defends his wooden cabin from waves of invading bears.  
+Shoot, survive, and protect your home in this fun, fast-paced, and kid-friendly defense game!  
+
+---
+
+## 🎮 Gameplay Overview  
+
+- 🐻 Bears advance toward your cabin in increasing waves.  
+- 🦊 Use your fox’s rifle to shoot them before they reach the house.  
+- 💥 Each hit repels the enemy and earns points.  
+- 🏚️ The game ends when the bears destroy the cabin.  
+
+---
+
+## ✨ Features  
+
+- Smooth 2D shooting controls  
+- Basic enemy AI with wave system  
+- Cabin health system  
+- Fun sound effects for shooting and hits  
+- Forest background and ambient music  
+- Simple and intuitive UI — perfect for kids or beginners  
+
+---
+
+## 🛠️ Built With  
+
+- **Unity** (2021.3 LTS or newer)  
+- **C#** for scripting  
+- **2D Sprite Renderer**  
+- **Audio Source** for sound and music  
+
+---
+
+## 🕹️ How to Play  
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/SaiOakkarMaung/Cabin_Protector.git
+
+2.Open it in Unity
+3.Press Play
